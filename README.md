@@ -1,1 +1,1 @@
-# SHARLYNE-AYAKO
+# SHARLYNE-AYAKO I am a passionate and results-driven aspiring Data Analyst dedicated to transforming complex data into clear, actionable insights. With a strong foundation in statistical analysis and a growing proficiency in key data tools, I am eager to contribute to data-informed decision-making and solve real-world problems.
