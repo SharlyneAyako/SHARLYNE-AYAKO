@@ -7,7 +7,7 @@ I am a passionate and results-driven aspiring **Data Analyst** dedicated to tran
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**
-- Python | SQL | R
+- Python | SQL 
 - Excel | Power BI | Tableau
 - Pandas | NumPy | Matplotlib | Seaborn
 - Jupyter Notebook | VS Code
